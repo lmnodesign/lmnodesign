@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lmnodesign
+- 👀 I’m interested in "design things"
+- 🌱 I’m currently learning "tech things"
